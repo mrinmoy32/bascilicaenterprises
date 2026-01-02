@@ -51,8 +51,10 @@ export default function Header() {
         <div className="container">
           <div className="header__content">
             <div className="header__logo">
-              <h1>BASILICA ENTERPRISES</h1>
-              <span className="header__tagline">Your Building Doctor</span>
+              <div className="header__logo-text">
+                <a href="#home" className="header__logo-link" aria-label="Basilica Enterprises home">BASILICA ENTERPRISES</a>
+                <span className="header__tagline">Your Building Doctor</span>
+              </div>
             </div>
 
             <div
