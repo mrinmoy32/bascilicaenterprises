@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
+
 Sitemap: https://www.basilicaenterprises.in/sitemap.xml
-# Replace "https://www.basilicaenterprises.in" with your real site URL
