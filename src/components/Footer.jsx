@@ -61,7 +61,7 @@ export default function Footer() {
 
           <div className="footer__bottom">
             <p>
-              &copy; 2024 Basilica Enterprises. All rights reserved. |
+              &copy; {new Date().getFullYear()} Basilica Enterprises. All rights reserved. |
               Professional Waterproofing Services
             </p>
           </div>
